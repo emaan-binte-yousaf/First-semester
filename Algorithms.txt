@@ -1,0 +1,27 @@
+Algorithm to find radius of a circle
+Case 1: diameter is given
+Case 2: circumference is given
+Case 3: both are given
+
+Case 1:
+step 1: start
+step 2: input r
+step 3: r=d/2
+step 4: output r
+step 5: end
+
+Case 2:
+step 1: start
+step 2: input C
+step 3: r=C/2*π
+step 4: output r
+step 5: end
+
+Case 3:
+step 1: start
+step 2: input d and C
+step 3: prompt user to choose between d and C
+step 4: if user chooses d then r=d/2
+step 5: if user chooses C then r=C/2π
+step 6: output r
+step 7: end
